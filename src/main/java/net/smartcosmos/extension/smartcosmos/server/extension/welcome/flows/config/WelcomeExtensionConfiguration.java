@@ -2,7 +2,7 @@ package net.smartcosmos.extension.smartcosmos.server.extension.welcome.flows.con
 
 /*
  * *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*
- * SMART COSMOS Objects Welcome Page Extension
+ * SMART COSMOS Flows Welcome Page Extension
  * ===============================================================================
  * Copyright (C) 2013 - 2016 Smartrac Technology Fletcher, Inc.
  * ===============================================================================

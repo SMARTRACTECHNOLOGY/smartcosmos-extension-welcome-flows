@@ -2,7 +2,7 @@ package net.smartcosmos.extension.smartcosmos.server.extension.welcome.flows;
 
 /*
  * *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*
- * SMART COSMOS Objects Welcome Page Extension
+ * SMART COSMOS Flows Welcome Page Extension
  * ===============================================================================
  * Copyright (C) 2013 - 2016 Smartrac Technology Fletcher, Inc.
  * ===============================================================================
@@ -32,7 +32,7 @@ public class WelcomeExtension extends AbstractServerExtension<WelcomeExtensionCo
     private static final Logger LOG = LoggerFactory.getLogger(WelcomeExtension.class);
     public static final String EXTENSION_ID = "962b4c82-138e-43b1-851c-fd28a57e8df2";
 
-    protected WelcomeExtension()
+    public WelcomeExtension()
     {
         super(EXTENSION_ID, "WelcomeFlowsExtension", WelcomeExtensionConfiguration.class);
     }
