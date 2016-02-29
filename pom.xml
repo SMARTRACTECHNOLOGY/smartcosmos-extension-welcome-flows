@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>smartcosmos-extension-welcome-flows</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
 
     <name>SMART COSMOS Flows Welcome Page Extension</name>
     <description>SMART COSMOS Flows Welcome Page Extension</description>
