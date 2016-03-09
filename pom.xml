@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>smartcosmos-extension-welcome-flows</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.3-SNAPSHOT</version>
 
     <name>SMART COSMOS Flows Welcome Page Extension</name>
     <description>SMART COSMOS Flows Welcome Page Extension</description>
@@ -20,13 +20,13 @@
             <artifactId>dropwizard-assets</artifactId>
         </dependency>
         <dependency>
+            <groupId>net.smartcosmos.extension</groupId>
+            <artifactId>smartcosmos-extension-starter-test</artifactId>
+        </dependency>
+        <dependency>
             <groupId>net.smartcosmos</groupId>
             <artifactId>smartcosmos-extension-api</artifactId>
             <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>net.smartcosmos.extension</groupId>
-            <artifactId>smartcosmos-extension-starter-test</artifactId>
         </dependency>
     </dependencies>
 
